@@ -4,8 +4,6 @@
         <!-- <link rel="preconnect" href="https://fonts.gstatic.com"> -->
         <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300&display=swap" rel="stylesheet">
         <style>
-            /* #image {
-            } */
             body {
                 background-color: rgb(44, 137, 137);
                 color: rgba(240, 255, 255, 0.8);
@@ -16,25 +14,24 @@
                 flex-wrap: wrap-reverse;
                 align-items: center;
                 flex-direction: row;
-                justify-content: space-evenly;
+                justify-items: space-between;
             }
             #image-section {
-                flex-shrink: 2;
-                flex-grow: 2;
+                flex: 3 3 25%;
             }
-            /* #might{
-                flex-shrink: 2;
-                flex-grow: 2;
-            } */
+            #might{
+                max-width: 100%;
+                height: auto;
+            }
             #info-section {
                 display: flex;
                 flex-direction: column;
-                flex-shrink: 3;
-                flex-grow: 3;
+                flex: 2 2 5em;
                 align-items: flex-start;
             }
             #links {
                 display: flex;
+                flex-direction: row;
                 justify-content: space-evenly;
             }
             .bi {
@@ -57,7 +54,7 @@
                     <h2>Nick Settoon.</h2>
                 </div>
                 <div id="blurb">
-                    <h3 top="10px">I like complexity, working out, and the future.</h3>
+                    <h3 top="10px">I like complexity, adrenaline, and the future.</h3>
                     <h3>Here's my stuff.</h3>
                 </div>
                 <div id="links">
