@@ -3,3 +3,21 @@
   to = "https://settoon.signin.aws.amazon.com/console"
   status = 301
   force = true
+
+[[redirects]]
+  from = "/git"
+  to = "https://github.com/nicksettoon?tab=repositories"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/linkedin"
+  to = "https://www.linkedin.com/in/nick-settoon"
+  status = 301
+  force = true
+
+[[redirects]]
+  from = "/twitter"
+  to = "https://https://twitter.com/ThatSisyphean"
+  status = 301
+  force = true
