@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/aws"
+  to = "https://972839132236.signin.aws.amazon.com/console"
+  status = 301
+  force = true
