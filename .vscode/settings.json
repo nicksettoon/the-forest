@@ -25,4 +25,9 @@
   "spellright.notificationClass": "warning",
   "vscodeMarkdownNotes.noteCompletionConvention": "noExtension",
   "vscodeMarkdownNotes.slugifyMethod": "github-slugger",
+  "spellright.language": [],
+  "spellright.documentTypes": [
+    "latex",
+    "plaintext"
+  ],
 }
