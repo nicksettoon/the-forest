@@ -9,6 +9,8 @@
 		"foam.openDailyNote.directory": "journal",
 		"foam.openDailyNote.titleFormat": "fullDate",
 		"pasteImage.path": "${projectRoot}/attachments",
-		"pasteImage.showFilePathConfirmInputBox": true
+		"pasteImage.showFilePathConfirmInputBox": true,
+		"editor.tabSize": 2,
+		"markdown.extension.list.indentationSize": "inherit"
 	}
 }

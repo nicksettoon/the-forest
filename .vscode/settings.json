@@ -30,4 +30,6 @@
     "latex",
     "plaintext"
   ],
+  "editor.tabSize": 2,
+  "markdown.extension.list.indentationSize": "inherit",
 }
