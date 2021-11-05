@@ -13,7 +13,7 @@
 
 ###   Surround yourself with good people
 
-    People are your armor, money is your weapon. Not a perfect analogy, but one I like. Why would you surround yourself with anything less than those you hold in S-tier.
+> People are your armor, money is your weapon. Not a perfect analogy, but one I like. Why would you surround yourself with anything less than those you hold in S-tier.
 
 ## Poetry
 
