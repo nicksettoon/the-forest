@@ -53,7 +53,7 @@ These rules in his ruleset stem from several observations of the behavior of the
 
 8. [Rick Sanchez](https://rickandmorty.fandom.com/wiki/Rick_Sanchez)
 
-    Rick Sanchez to me, does not have a word. Other than his name. He is so much his own idea that his name the only set of sounds that is unique enough to describe him; the only words built by humanity which contains within in it the idea that is Rick mfkin Sanchez.
+    Rick Sanchez to me, does not have a word. Other than his name. He is so much his own idea that his name is the only set of sounds that is unique enough to describe him; the only words built by humanity which contains within in it the idea that is Rick mfkin Sanchez.
 
     I think if he could be described by something other, it would be a feeling which did it best.
 

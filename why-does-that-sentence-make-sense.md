@@ -4,4 +4,4 @@
 
 ## what is a sentence
 
-  ### another beautiful thing
+### a beautiful thing

@@ -1,3 +1,3 @@
 # what-is-a-reason?
 
-## a beautiful thing
+## another beautiful thing
