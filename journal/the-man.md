@@ -3,7 +3,7 @@
 I've spent a long time searching, not explicitly, mind you; merely meandering about this magnificent [graph](../the-graph.md), looking.  
 
 "A long time" is a message, which when received, I feel, is immediately judged by the receiver. Many snub their nose at a mere 28.4602739730 years. To them I am but a summer child.  
-Others (probably fewer than their counterparts obviously), would consider me "old". To them, I speak of things about which they give zero fucks.  
+Others (probably fewer than their counterparts), would consider me "old". To them, I speak of things about which they give zero fucks.  
 Age merely guarantees experience, nothing more, nothing less.
 
 I didn't know it while I was scouring, but now that I've happened upon it, he seems so obvious. I guess that's just what a higher vantage point on [[the-mountain]] gets you.
@@ -11,33 +11,33 @@ I didn't know it while I was scouring, but now that I've happened upon it, he se
 The thing I've been looking for this whole time has been myself. Now, that's not the person I will eventually be inhabiting; you know, the one that the chaos of the universe will eventually produce.  
   It is instead the person who I aspire to become. The ideal. The man.
 
-Since he is an ideal, he is an idea. He is an awesome (in the traditional sense of the word) amalgamation of charged brain juice. He has no one true form, for if he did, I would have to take issue with this [[God]], for it has woefully disapointed me in its universal creation.
+Since he is an ideal, he is an idea. He is an awesome (in the traditional sense of the word) amalgamation of charged brain juice. He has no one true form, for if he did, I would have to take issue with this [[God]], for it has woefully disappointed me in its universal creation.
 There are many versions of my ideal. This is because he is not a set of properties. He is not a specific collection of atoms somewhere in one of the futures. He is a [[ruleset]] used to navigate [[the-graph]]
 
 These rules in his ruleset stem from several observations of the behavior of the following
 
-1. Luffy
+1. [Monkey D. Luffy](https://onepiece.fandom.com/wiki/Monkey_D._Luffy)  
   Luffy is my spirit.
   He embodies the word "Freedom" in its most purest form.
-2. All Might
+2. [All Might](https://myheroacademia.fandom.com/wiki/Toshinori_Yagi)  
   All Might is my goal. He is the word "Confidence". His is the top of the mountain. Nothing else lay above but sky.
   He is The. Number. One. Hero. In it's purest form.
-3. Izuku Midorya
-  Midorya, the young boy. Idolizing his numba 1 hero. Not yet there still on the mountain trudging through his journey to reach those heights.
+3. [Izuku Midorya](https://myheroacademia.fandom.com/wiki/Izuku_Midoriya)
+  Midorya, my boy. Idolizing his numba 1 hero. Not yet there still on the mountain trudging through his journey to reach those heights.
   The definition of many words, but for me "Determination"
 4. My dad and my Mom's grandfather
   This is a box full of context that also cannot be summed up. But "Perseverance" is the duct tape on the box.
   Different from 3 because determination is the will to climb, but perseverance is the methodology. Simply do not give up until the **ENERGY DEMON** takes it from you.
-5. Carl Sagan
+5. [Carl Sagan](https://en.wikipedia.org/wiki/Carl_Sagan)
   Carl Sagan. The man who found me and showed me the way. The man who showed me the universe.
   "Live" is his word. He showed me what it meant to be alive.
-6. Olan Rogers
+6. [Olan Rogers](https://www.youtube.com/watch?v=cZO9tMetxno)
   This man is on my list of people for which I want nothing but the utmost happiness.
   His word is "Silly".
 7. My best friends
   Two of them, specifically. But I idolize them all in some way.
   [[armor]] obviously.
-8. Rick Sanchez
+8. [Rick Sanchez](https://rickandmorty.fandom.com/wiki/Rick_Sanchez)
   Rick Sanchez to me, does not have a word. Other than his name. He is so much his own idea that his name the only set of sounds that is unique enough to describe him; the only words built by humanity which contains within in it the idea that is Rick mfkin Sanchez.
   I think if he could be described by something other, it would be a feeling which did it best.
   It would be that feeling of "...fuck."
@@ -49,7 +49,7 @@ Characters in shows and movies are people as well. They were built by people. Yo
 This may be a talk for another time, but I would argue that those characters have their own flavor of importance that real people of history simply lack, simply because they are purley ideas. They are thoughts created by people to explain a perspective of the world, not just a piece of it.
 They are messages, really. Sent by their creators. Messages about rulesets by which to live.
 
-I'm becoming those men so I can protect those I want to protect from the [chaos](energy-demon.md).
+I'm becoming those men so I can protect those I want to protect from the [[energy-demon]].
 
 > written [[2021-10-31]], edited [[2021-11-05]]
 
