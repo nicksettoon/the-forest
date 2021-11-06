@@ -25,6 +25,7 @@ These rules in his ruleset stem from several observations of the behavior of the
 
     He. Is. The. Number. One. Hero. In it's purest form.
 3. [Izuku Midorya](https://myheroacademia.fandom.com/wiki/Izuku_Midoriya)
+
     Midorya, my boy. Idolizing his numba 1 hero. Not yet there. Still on the mountain. He trudges through his journey to reach All Might's heights.
 
     The definition of many words, but for me "Determination"
