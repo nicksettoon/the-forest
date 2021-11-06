@@ -52,7 +52,7 @@
 
 # Ideas I've Spent Time On
 <!-- [[how-to-teach]] -->
-> written by Slartibartfast(https://en.wikipedia.org/wiki/Slartibartfast)
+> written by [Slartibartfast](https://en.wikipedia.org/wiki/Slartibartfast)
 
 > built with <https://github.com/foambubble/foam>
 
