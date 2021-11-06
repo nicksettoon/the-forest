@@ -20,6 +20,8 @@
 * [[why-it-feel-sad-sometime]]
 * [[what-is-the-future]]
 * [[what-is-it-like-to-jump-out-an-airplane-mid-flight]]
+* [[the-goal]]
+* [[the-system]]
 * [[the-universal-toilet]]
 * [[in-summary]]
 
