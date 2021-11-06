@@ -8,11 +8,11 @@
 * [[TLDR]]
 * [[the-man]]
 * [[why-he-is-mad]]
-* [[why-are-they-ramblings?]]
+* [[why-are-they-ramblings]]
 * [[whats-a-hypergraph]]
-* [[why-is-it-called-the-forest?]]
+* [[why-is-it-called-the-forest]]
 * [[why-does-that-sentence-make-sense]]
-* [[what-is-a-reason?]]
+* [[what-is-a-reason]]
 * [[what-is-the-most-fun-thing-in-the-universe?]]
 * [[why-you-should-be-healthy]]
 * [[why-you-should-be-rich]]
@@ -68,18 +68,14 @@
 [TLDR]: TLDR "TLDR"
 [the-man]: journal/the-man "the-man"
 [why-he-is-mad]: why-he-is-mad "why-is-he-mad?"
-[why-are-they-ramblings?]: why-are-they-ramblings? "why-are-they-ramblings?"
+[why-are-they-ramblings]: why-are-they-ramblings "why-are-they-ramblings?"
 [whats-a-hypergraph]: whats-a-hypergraph "whats-a-hypergraph"
-[why-is-it-called-the-forest?]: why-is-it-called-the-forest? "why-is-it-called-the-forest?"
+[why-is-it-called-the-forest]: why-is-it-called-the-forest "why-is-it-called-the-forest?"
 [why-does-that-sentence-make-sense]: why-does-that-sentence-make-sense "why-does-that-sentence-make-sense"
-[what-is-a-reason?]: what-is-a-reason? "what-is-a-reason?"
-[what-is-the-most-fun-thing-in-the-universe?]: what-is-the-most-fun-thing-in-the-universe? "what-is-the-most-fun-thing-in-the-universe?"
+[what-is-a-reason]: what-is-a-reason "what is a reason?"
 [why-you-should-be-healthy]: why-you-should-be-healthy "why-you-should-be-healthy"
 [why-you-should-be-rich]: why-you-should-be-rich "why-you-should-be-rich"
 [why-you-should-be-happy]: why-you-should-be-happy "why-you-should-be-happy"
-[why-it-feel-sad-sometime?]: why-it-feel-sad-sometime? "why-it-feel-sad-sometime?"
-[what-is-the-future?]: what-is-the-future? "what-is-the-future?"
-[what-is-it-like-to-jump-out-an-airplane-mid-flight?]: what-is-it-like-to-jump-out-an-airplane-mid-flight? "what-is-it-like-to-jump-out-an-airplane-mid-flight?"
 [the-universal-toilet]: the-universal-toilet "the-universal-toilet"
 [in-summary]: in-summary "in-summary"
 [the-tree]: the-tree "the-tree"
