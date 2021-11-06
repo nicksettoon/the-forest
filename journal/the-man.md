@@ -37,6 +37,7 @@ These rules in his ruleset stem from several observations of the behavior of the
 5. [Carl Sagan](https://en.wikipedia.org/wiki/Carl_Sagan)
 
     Carl Sagan. The man who found me and showed me the way. The man who showed me the universe.
+
     "Live" is his word. He showed me what it meant to be alive.
 
 6. [Olan Rogers](https://www.youtube.com/watch?v=cZO9tMetxno)
