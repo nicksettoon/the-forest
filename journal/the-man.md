@@ -57,7 +57,7 @@ These rules in his ruleset stem from several observations of the behavior of the
 
     It would be that feeling of "...fuck."
 
-    You know when you're just not doing anything at all with your meat bag of an energy sack? Those moments where life requires absolutely fucking nothing of you for a brief second and what do you do with it? You don't say "whew! that was fun!". You don't say "wow, i need a break". You don't say "what am I doing with my life." Those are other moments which I am not speaking about here.
+    You know when you're just not doing anything at all with your meat bag of an energy sack? Those moments where life requires absolutely fucking nothing of you for a brief second and what do you do with it? You don't say "whew! that was fun!". You don't say "wow, i need a break". You don't say "what am I doing with my life?" Those are other moments which I am not speaking about here.
     I'm talking about that subset of moments where you just sigh and say "...fuck."
 
     That feeling is Rick Sanchez.
