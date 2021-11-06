@@ -18,38 +18,54 @@ These rules in his ruleset stem from several observations of the behavior of the
 
 1. [Monkey D. Luffy](https://onepiece.fandom.com/wiki/Monkey_D._Luffy)  
   Luffy is my spirit.
+
   He embodies the word "Freedom" in its most purest form.
 2. [All Might](https://myheroacademia.fandom.com/wiki/Toshinori_Yagi)  
   All Might is my goal. He is the word "Confidence". His is the top of the mountain. Nothing else lay above but sky.
-  He is The. Number. One. Hero. In it's purest form.
+
+  He. Is. The. Number. One. Hero. In it's purest form.
 3. [Izuku Midorya](https://myheroacademia.fandom.com/wiki/Izuku_Midoriya)
   Midorya, my boy. Idolizing his numba 1 hero. Not yet there still on the mountain trudging through his journey to reach those heights.
+
   The definition of many words, but for me "Determination"
 4. My dad and my Mom's grandfather
-  This is a box full of context that also cannot be summed up. But "Perseverance" is the duct tape on the box.
-  Different from 3 because determination is the will to climb, but perseverance is the methodology. Simply do not give up until the **ENERGY DEMON** takes it from you.
+
+  This is a box of data that is not easily summed in words. But "Perseverance" is the duct tape on it.
+
+  Different from 3 because determination is the will to climb, but perseverance is the methodology. Simply do not give up until the **[[energy-demon]]** takes it from you.
 5. [Carl Sagan](https://en.wikipedia.org/wiki/Carl_Sagan)
+
   Carl Sagan. The man who found me and showed me the way. The man who showed me the universe.
   "Live" is his word. He showed me what it meant to be alive.
 6. [Olan Rogers](https://www.youtube.com/watch?v=cZO9tMetxno)
+
   This man is on my list of people for which I want nothing but the utmost happiness.
+
   His word is "Silly".
 7. My best friends
+
   Two of them, specifically. But I idolize them all in some way.
   [[armor]] obviously.
+
 8. [Rick Sanchez](https://rickandmorty.fandom.com/wiki/Rick_Sanchez)
+
   Rick Sanchez to me, does not have a word. Other than his name. He is so much his own idea that his name the only set of sounds that is unique enough to describe him; the only words built by humanity which contains within in it the idea that is Rick mfkin Sanchez.
+
   I think if he could be described by something other, it would be a feeling which did it best.
+
   It would be that feeling of "...fuck."
+
   You know when you're just not doing anything at all with your meat bag of an energy sack? Those moments where life requires absolutely fucking nothing of you for a brief second and what do you do with it? You don't say "whew! that was fun!". You don't say "wow, i need a break". You don't say "what am I doing with my life." Those are other moments which I am not speaking about here.
   I'm talking about that subset of moments where you just sigh and say "...fuck."
+
   That feeling is Rick Sanchez.
 
 Characters in shows and movies are people as well. They were built by people. You can surround yourself with them as well. You can use them to build a better you.
+
 This may be a talk for another time, but I would argue that those characters have their own flavor of importance that real people of history simply lack, simply because they are purley ideas. They are thoughts created by people to explain a perspective of the world, not just a piece of it.
 They are messages, really. Sent by their creators. Messages about rulesets by which to live.
 
-I'm becoming those men so I can protect those I want to protect from the [[energy-demon]].
+I'm becoming like those men so I can protect those I want to protect, have as much happiness as possible, and so I can give the **[[energy-demon]]** the bird when I see him.
 
 > written [[2021-10-31]], edited [[2021-11-05]]
 
@@ -58,6 +74,7 @@ I'm becoming those men so I can protect those I want to protect from the [[energ
 [God]: ../God "God"
 [ruleset]: ../ruleset "ruleset"
 [the-graph]: ../the-graph "the-graph"
+[energy-demon]: energy-demon "energy-demon"
 [armor]: ../armor "armor"
 [2021-10-31]: 2021-10-31 "Friday, October 31, 2021"
 [2021-11-05]: 2021-11-05 "Friday, November 5, 2021"
