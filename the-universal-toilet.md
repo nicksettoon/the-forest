@@ -2,6 +2,6 @@
 
 #t/cbl
 
-## farts
+## farts are the best
 
 ## Rick's Toilet
