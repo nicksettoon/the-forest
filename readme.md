@@ -5,6 +5,10 @@
 ## Ramblings
 
 [[the-man]]
+[[why-he-is-mad]]
+[[why-are-they-ramblings?]]
+[[whats-a-hypergraph]]
+[[why-is-it-called-the-forest?]]
 <!-- [[the-game]]
 [[the-view]]
 [[the-future]] -->
