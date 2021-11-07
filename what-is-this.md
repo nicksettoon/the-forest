@@ -1,6 +1,6 @@
 # what-is-this
 
-**[a center for ants?](https://www.youtube.com/watch?v=NQ-8IuUkJJc)**
+*[a center for ants?](https://www.youtube.com/watch?v=NQ-8IuUkJJc)*
 
 ## 1| This is a knowledge graph
 
@@ -44,7 +44,7 @@ This is what the headers look like all together:
 
 ## Header #2 (I handle major points on the page)
 
-**[if yer not first yer last.](https://www.youtube.com/watch?v=S6YsAlYr5AU)**
+*[if yer not first yer last.](https://www.youtube.com/watch?v=S6YsAlYr5AU)*
 
     Don't talk to that bitch, Becky, in header 1, for I, Dame Codeblock am more beautiful due to my indention on the page and distinct in my ability to contain code in a different font.
 
@@ -81,13 +81,15 @@ This is what the headers look like all together:
 
 ###### Header #6 ([I like tortles](https://www.youtube.com/watch?v=CMNry4PE93Y))
 
-  **[hi. I'm paul.](https://www.youtube.com/watch?v=_Fx6eCGsXMw)**
+  *[hi. I'm paul.](https://www.youtube.com/watch?v=_Fx6eCGsXMw)*
 
   **hi. he's paul. ^**
 
+  ***PAUL IS BUT A FIGMENT OF YOUR IMAGINATION. HIS LIFE DEPENDS ON YOU KEEPING YOUR FOCUS ON HIS EXISTENCE. DON'T FORGET ABOUT PAUL***
+
 ## 3| Page Disection
 
-  **please don't name the page, you'll get too attached to it.**
+  *please don't name the page, you'll get too attached to it.*
 
 - I've altered the group of plants I arranged in the garden above, removing the content and focusing mainly on describing the skeleton.
   - This is just a collection of different objects.

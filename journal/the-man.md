@@ -1,6 +1,6 @@
 ## the-man
 
-**he's pretty handsome**
+*he's pretty handsome*
 
 I've spent a long time searching, not explicitly, mind you; merely meandering about this magnificent [graph](../the-graph.md), looking.  
 

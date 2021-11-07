@@ -1,6 +1,6 @@
 # what-is-the-most-fun-thing-in-the-universe
 
-**bread pudding**
+*bread pudding*
 
 ## 1| Seriously, bread pudding doe.
 

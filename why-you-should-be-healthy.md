@@ -1,6 +1,6 @@
 # why-you-should-be-healthy
 
-**reasons. duh. I'm sad I even have to write this.**
+*reasons. duh. I'm sad I even have to write this.*
 
 ## 1| Why you shouldn't be healthy.
 

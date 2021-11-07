@@ -1,11 +1,11 @@
 # why-is-he-mad
 
-**many many reasons my dear child**
+*many many reasons my dear child*
 
 
 ## 1| What is madness?
 
-**idk but supposedly there is some method to it**
+*idk but supposedly there is some method to it*
 
 #t/cbl
 
