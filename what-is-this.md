@@ -25,18 +25,18 @@
 ## 2| What can you do on a page?
 
 There are a collection of objects that format the text in different ways.
-The big bones are the 6 header sizes you can use here
+The big bones are the 6 header sizes you can use here.
 
-I can nest other objects underneath these headers in various ways.
+I can nest other objects underneath these headers in various ways as you will see below.
 
-This is what they look like all together:
+This is what the headers look like all together:
 
-> # Header #1
-> ## Header #2
-> ### Header #3
-> #### Header #4
-> ##### Header #5
-> ###### Header #6
+# Header #1
+## Header #2
+### Header #3
+#### Header #4
+##### Header #5
+###### Header #6
 
 # Header #1 ([All Might](https://myheroacademia.fandom.com/wiki/Toshinori_Yagi))
 
@@ -44,7 +44,7 @@ This is what they look like all together:
 
 ## Header #2 (I handle major points on the page)
 
-**[if yer not first yer last.](https://www.youtube.com/results?search_query=if+you%27re+not+first+yer+last)**
+**[if yer not first yer last.](https://www.youtube.com/watch?v=S6YsAlYr5AU)**
 
     Don't talk to that bitch, Becky, in header 1, for I, Dame Codeblock am more beautiful due to my indention on the page and distinct in my ability to contain code in a different font.
 
@@ -82,6 +82,7 @@ This is what they look like all together:
 ###### Header #6 ([I like tortles](https://www.youtube.com/watch?v=CMNry4PE93Y))
 
   **[hi. I'm paul.](https://www.youtube.com/watch?v=_Fx6eCGsXMw)**
+
   **hi. he's paul. ^**
 
 ## 3| Page Disection
