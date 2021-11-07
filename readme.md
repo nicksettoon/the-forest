@@ -6,6 +6,7 @@
 # Ramblings
 
 * [[TLDR]]
+* [[what-is-this]]
 * [[the-man]]
 * [[why-is-he-mad]]
 * [[why-are-they-ramblings]]
@@ -20,11 +21,11 @@
 * [[why-it-feel-sad-sometime]]
 * [[what-is-the-future]]
 * [[what-is-it-like-to-jump-out-an-airplane-mid-flight]]
-* [[the-goal]]
-* [[the-system]]
 * [[the-universal-toilet]]
 * [[in-summary]]
 
+<!-- * [[the-goal]]
+* [[the-system]] -->
 <!-- [[the-game]]
 [[the-view]]
 [[the-future]] -->
