@@ -33,7 +33,6 @@
 [[the-view]]
 [[the-future]] -->
 
-
 ## 3| The Good Stuff (Prime Sauce (Gold Dust (Choice Meat (aka lil juicy (aka nirvana (aka bird up!))))))
 
 ### Surround yourself with good people
