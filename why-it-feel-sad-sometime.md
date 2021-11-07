@@ -1,5 +1,20 @@
-# why-it-feel-sad-sometime?
+# why-it-feel-sad-sometime
+
+__cause it do be that way sometimes__
+
+
+## 1| Is sadness inevitable?
 
 #t/cbl
 
-## sadness a requirement?
+## 2| The cost of sadness.
+
+#t/cbl
+
+## 3| To the source.
+
+#t/cbl
+
+## 4| What do now?
+
+#t/cbl

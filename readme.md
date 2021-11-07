@@ -1,59 +1,76 @@
 <!-- <img src="attachments/wolfram-physics.jpeg" width=100 align="left"> -->
 
 # **_"ramblings of a mad man in the [hypergraph](https://medium.com/syncedreview/stephen-wolfram-the-path-to-a-fundamental-theory-of-physics-may-begin-with-a-hypergraph-c1fd124b6e62)"_**
-# Other People's Work That Is Way Better Than Mine
 
-# Ramblings
+## 1| Other People's Work That Is Way Better Than Mine
+
+__this will be populated eventually__
+
+## 2| Ramblings
 
 * [[TLDR]]
 * [[the-man]]
-* [[why-is-he-mad]]
-* [[why-are-they-ramblings]]
-* [[whats-a-hypergraph]]
-* [[why-is-it-called-the-forest]]
-* [[why-does-that-sentence-make-sense]]
-* [[what-is-a-reason]]
-* [[what-is-the-most-fun-thing-in-the-universe]]
-* [[why-you-should-be-healthy]]
-* [[why-you-should-be-rich]]
+  * [[why-is-he-mad]]
+  * [[whats-a-hypergraph]]
+  * [[why-are-they-ramblings]]
+* [[what-is-this]]
+  * [[why-is-it-called-the-forest]]
+  * [[why-does-that-sentence-make-sense]]
+  * [[what-is-a-reason]]
 * [[why-you-should-be-happy]]
-* [[why-it-feel-sad-sometime]]
+  * [[why-you-should-be-healthy]]
+  * [[why-you-should-be-rich]]
+  * [[why-it-feel-sad-sometime]]
+* [[what-is-the-most-fun-thing-in-the-universe]]
+  * [[what-is-it-like-to-jump-out-an-airplane-mid-flight]]
 * [[what-is-the-future]]
-* [[what-is-it-like-to-jump-out-an-airplane-mid-flight]]
-* [[the-goal]]
-* [[the-system]]
-* [[the-universal-toilet]]
+  * [[the-universal-toilet]]
 * [[in-summary]]
 
+<!-- * [[the-goal]]
+* [[the-system]] -->
 <!-- [[the-game]]
 [[the-view]]
 [[the-future]] -->
 
-# The Good Stuff (Prime Sauce (Rare Steak (Choice Meat (aka lil juicy (aka nirvana (aka bird up!))))))
+## 3| The Good Stuff (Prime Sauce (Gold Dust (Choice Meat (aka lil juicy (aka nirvana (aka bird up!))))))
 
-###   Surround yourself with good people
+### Surround yourself with good people
 
 > People are your armor, money is your weapon. Not a perfect analogy, but one I like. Why would you surround yourself with anything less than those you hold in S-tier.
 
-### Do stuff immediately ([[Run]])
+### Do stuff immediately
 
-> see [[Run]]
+> [[Run]]
+> No, really, do stuff immediately
+> What are you doing? Should be stuff right now.
+> Do it right now.
+> Stop reading. Go do stuff with your life.
 
-### No really do stuff immediately
+### Maybe not care so much about failure
 
-> what are you doing? should be stuff right now.
+> care a little, but manage the care budget
 
-### Do it right now
+## 4| Poetry
 
-> stop reading go do stuff with your life.
-
-
-# Poetry
-
+[[the-poet]]
 [[the-tree]]
+[[the-poet-tree]]
+[[the-poetry]]
+[[lettuce]]
+[[doth-thine-poetry-wobble-to-and-fro]]
+[[jenny-of-oldstones]]
+[[lovely]]
+[[lonely]]
+[[strawberry-slice]]
+[[extremes]]
 
-# Ideas I've Spent Time On
+## 5| Ideas I've Spent Time On
+
+__might be outside the scope of this garden__
+
 <!-- [[how-to-teach]] -->
+
 > written by [Slartibartfast](https://en.wikipedia.org/wiki/Slartibartfast)
 
 > built with <https://github.com/foambubble/foam>
@@ -70,22 +87,29 @@
 [TLDR]: TLDR "TLDR"
 [the-man]: journal/the-man "the-man"
 [why-is-he-mad]: why-is-he-mad "why-is-he-mad"
-[why-are-they-ramblings]: why-are-they-ramblings "why-are-they-ramblings?"
 [whats-a-hypergraph]: whats-a-hypergraph "whats-a-hypergraph"
+[why-are-they-ramblings]: why-are-they-ramblings "why-are-they-ramblings?"
+[what-is-this]: what-is-this "what-is-this"
 [why-is-it-called-the-forest]: why-is-it-called-the-forest "why-is-it-called-the-forest?"
 [why-does-that-sentence-make-sense]: why-does-that-sentence-make-sense "why-does-that-sentence-make-sense"
 [what-is-a-reason]: what-is-a-reason "what-is-a-reason?"
-[what-is-the-most-fun-thing-in-the-universe]: what-is-the-most-fun-thing-in-the-universe "what-is-the-most-fun-thing-in-the-universe?"
+[why-you-should-be-happy]: why-you-should-be-happy "why-you-should-be-happy"
 [why-you-should-be-healthy]: why-you-should-be-healthy "why-you-should-be-healthy"
 [why-you-should-be-rich]: why-you-should-be-rich "why-you-should-be-rich"
-[why-you-should-be-happy]: why-you-should-be-happy "why-you-should-be-happy"
-[why-it-feel-sad-sometime]: why-it-feel-sad-sometime "why-it-feel-sad-sometime?"
-[what-is-the-future]: what-is-the-future "what-is-the-future?"
+[why-it-feel-sad-sometime]: why-it-feel-sad-sometime "why-it-feel-sad-sometime"
+[what-is-the-most-fun-thing-in-the-universe]: what-is-the-most-fun-thing-in-the-universe "what-is-the-most-fun-thing-in-the-universe?"
 [what-is-it-like-to-jump-out-an-airplane-mid-flight]: what-is-it-like-to-jump-out-an-airplane-mid-flight "what-is-it-like-to-jump-out-an-airplane-mid-flight?"
+[what-is-the-future]: what-is-the-future "what-is-the-future?"
 [the-universal-toilet]: the-universal-toilet "the-universal-toilet"
 [in-summary]: in-summary "in-summary"
 [Run]: Run "Run"
+[the-poet]: the-poet "the-poet"
 [the-tree]: the-tree "the-tree"
+[the-poet-tree]: the-poet-tree "the-poet-tree"
+[the-poetry]: the-poetry "the-poetry"
+[lettuce]: lettuce "lettuce"
+[doth-thine-poetry-wobble-to-and-fro]: doth-thine-poetry-wobble-to-and-fro "doth-thine-poetry-wobble-to-and-fro"
+[jenny-of-oldstones]: jenny-of-oldstones "jenny-of-oldstones"
 [year of our lord]: <year of our lord> "year of our lord"
 [2021]: 2021 "2021"
 ["Earth"]: "Earth" ""Earth""

@@ -1,7 +1,14 @@
 # the-universal-toilet
 
+__the best place to shit__
+
+
+## 1| Rick's Toilet
+
+__[serene](https://www.youtube.com/watch?v=MU4WlERyyBY)__
+
 #t/cbl
 
-## farts are the best
+## 2| Why you should laugh at farts.
 
-## Rick's Toilet
+#t/cbl
