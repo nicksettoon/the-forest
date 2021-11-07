@@ -1,10 +1,10 @@
 <!-- <img src="attachments/wolfram-physics.jpeg" width=100 align="left"> -->
 
-# **_"ramblings of a mad man in the [hypergraph](https://medium.com/syncedreview/stephen-wolfram-the-path-to-a-fundamental-theory-of-physics-may-begin-with-a-hypergraph-c1fd124b6e62)"_**
+# *"Ramblings of a mad man in the [hypergraph](https://medium.com/syncedreview/stephen-wolfram-the-path-to-a-fundamental-theory-of-physics-may-begin-with-a-hypergraph-c1fd124b6e62)"*
 
 ## 1| Other People's Work That Is Way Better Than Mine
 
-**this will be populated eventually**
+*this will be populated eventually*
 
 ## 2| Ramblings
 
@@ -34,6 +34,8 @@
 [[the-future]] -->
 
 ## 3| The Good Stuff (Prime Sauce (Gold Dust (Choice Meat (aka lil juicy (aka nirvana (aka bird up!))))))
+
+### Assume everything is infinitely more complicated than you think it is
 
 ### Surround yourself with good people
 
@@ -75,7 +77,7 @@
 
 ## 5| Ideas I've Spent Time On
 
-**might be outside the scope of this garden**
+*might be outside the scope of this garden*
 
 <!-- [[how-to-teach]] -->
 

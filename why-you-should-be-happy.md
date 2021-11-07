@@ -1,6 +1,6 @@
 # why-you-should-be-happy
 
-**cause it's better**
+*cause it's better*
 
 
 ## 1| Can you choose to be happy instead of being sad?
