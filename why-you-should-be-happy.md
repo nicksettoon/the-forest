@@ -1,7 +1,24 @@
 # why-you-should-be-happy
 
+__cause it's better__
+
+
+## 1| Can you choose to be happy instead of being sad?
+
 #t/cbl
 
-## cause it's better
+## 2| Valuing happiness
 
-## happiness a requirement?
+#t/cbl
+
+## 3| Comparing happinesses
+
+#t/cbl
+
+## 4| Manufacturing happiness
+
+#t/cbl
+
+## 5| Is happiness inevitable?
+
+#t/cbl

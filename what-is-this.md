@@ -1,10 +1,8 @@
 # what-is-this
 
-__a center for ants?__
+__[a center for ants?](https://www.youtube.com/watch?v=NQ-8IuUkJJc)__
 
-#t/link
-
-# This is a knowledge graph.
+## 1| This is a knowledge graph
 
 - Something I'm calling a "digital garden".
   - I think my friend was the first person who said those words to me.
@@ -24,10 +22,12 @@ __a center for ants?__
   - It creats emphasis.
   - It is the result of intent.
 
+## 2| What can you do on a page?
 
-# What can you do on a page?
-There are 6 header sizes you can use here.
+There are a collection of objects that format the text in different ways.
+The big bones are the 6 header sizes you can use here
 This is what they look like:
+
 > # Header #1
 > ## Header #2
 > ### Header #3
@@ -35,27 +35,25 @@ This is what they look like:
 > ##### Header #5
 > ###### Header #6
 
-I can nest information underneath these headers in various ways.
+I can nest other objects underneath these headers in various ways.
 
-# Header #1 (All Might)
-
-#t/link
+# Header #1 ([All Might](https://myheroacademia.fandom.com/wiki/Toshinori_Yagi))
 
   Hi. I'm a sentence. Aren't I beautiful?
 
-## Header #2 (if yer not first yer last.)
+## Header #2 (I handle major points on the page)
 
-#t/link
+__[if yer not first yer last.](https://www.youtube.com/results?search_query=if+you%27re+not+first+yer+last)__
 
-    Don't talk to that bitch, Becky, in header 1, for I, Dame Codeblock am more beautiful due to my indention on the page and distinct in my ability to contain code.
+    Don't talk to that bitch, Becky, in header 1, for I, Dame Codeblock am more beautiful due to my indention on the page and distinct in my ability to contain code in a different font.
 
 ### Header 3 (sub-topic land)
 
-  + they just don't get it
-    + these kids
-  + understandable
-  + not being a list
-    + it's hard
+- they just don't get it
+  - these kids
+- understandable
+- not being a list
+  - it's hard
 
 #### Header #4 (I talk about sub-sub-topics. Super niche.)
 
@@ -65,29 +63,28 @@ I can nest information underneath these headers in various ways.
       1. He's slightly ordered, but not really.
       2. He lives under a mask of order, convincing others he is "normal", but underneath, he is but pure [chaos](journal/energy-demon.md)
   3. You could rearrange his items easily.
-  2. I however, am ordered.
-    3. I bring peace to the chaos
-    4. I have within me, structure
+  4. I however, am ordered.
+    1. I bring peace to the chaos
+    2. I have within me, structure
       1. meaning
       2. purpose
       3. intent
 
 ##### Header #5 (I'm just a supporting point or something that requires some explanation idk.)
-  Yeah! We explain header 5! Header 5 is the best! Header 5 or die!
+
+  Yeah! Header 5 is the best! Header 5 or die!
 
   > Settle down there, young one.
   > "True greatness need not speak, it is spoken of." - [[idk]]
-  > (I look like a block and I quote things. Call me Blockquote.)
+  > (I look like a block and I quote things. Call me Lord Blockquote.)
 
-#t/link
-
-###### Header #6 (I like tortles)
+###### Header #6 ([I like tortles](https://www.youtube.com/watch?v=CMNry4PE93Y))
 
   **[hi. I'm paul.](https://www.youtube.com/watch?v=_Fx6eCGsXMw)**
   __hi. he's paul. ^__
 
+## 3| Page Disection
 
-# Page Disection
   __please don't name the page, you'll get too attached to it.__
 
 - I've altered the group of plants I arranged in the garden above, removing the content and focusing mainly on describing the skeleton.
@@ -100,71 +97,72 @@ I can nest information underneath these headers in various ways.
     - Header 1 is prolly one of the main ideas of the page
   - If the creator of this garden, specifically paid attention to that structure when writing their ideas, [what would they be capable of?](the-system.md)
 
-# Node 1: header
+> # Node 1: header
+>
+> Node 1.1: sentence
+>
+> ## Node 2: header
+>
+>     Node 2.1: Dame Codeblock
+>
+> ### Node 3: header
+>
+> Node 3.1: list
+>
+> - Node 3.1.1: sentence
+>   - Node 3.1.1.2: sentence
+> - Node 3.1.2: sentence
+> - Node 3.1.3: sentence
+>   - Node 3.1.3.1: sentence
+>
+> #### Node 4: header
+>
+> Node 4.1: ordered list
+>
+>   1. Node 4.1.1: sentence
+>   2. Node 4.1.2: sentence
+>     1. Node 4.1.2.1: sentence
+>       1. Node 4.1.2.1.1: sentence
+>       2. Node 4.1.2.1.2: sentence
+>   3. Node 4.1.3: sentence
+>   4. Node 4.1.4: sentence
+>     1. Node 4.1.4.1: sentence
+>     2. Node 4.1.4.2: sentence
+>       1. Node 4.1.2.1: sentence
+>       2. Node 4.1.2.2: sentence
+>       3. Node 4.1.2.3: sentence
+>
+> ##### Node 5: header
+>
+> Node 5.1: sentence
+>
+> Node 5.2: Lord Blockquote himself, master of all domains
+> > Node 5.2.1: sentence
+> > Node 5.2.2: sentence + link
+> > Node 5.2.3: sentence
+>
+> ###### Node 6: header
+>
+> Node 6.1: bold link
+> Node 6.2: italic sentence
 
-  Node 1.1: sentence
-
-## Node 2: header
-
-    Node 2.1: Dame Codeblock
-
-### Node 3: header
-
-  Node 3.1: list
-  + Node 3.1.1: sentence
-    + Node 3.1.1.2: sentence
-  + Node 3.1.2: sentence
-  + Node 3.1.3: sentence
-    + Node 3.1.3.1: sentence
-
-#### Node 4: header
-
-  Node 4.1: ordered list
-  1. Node 4.1.1: sentence
-  2. Node 4.1.2: sentence
-    1. Node 4.1.2.1: sentence
-      1. Node 4.1.2.1.1: sentence
-      2. Node 4.1.2.1.2: sentence
-  3. Node 4.1.3: sentence
-  4. Node 4.1.4: sentence
-    1. Node 4.1.4.1: sentence
-    2. Node 4.1.4.2: sentence
-      1. Node 4.1.2.1: sentence
-      2. Node 4.1.2.2: sentence
-      3. Node 4.1.2.3: sentence
-
-##### Node 5: header
-
-  Node 5.1: sentence
-
-  Node 5.2: Lord Blockquote himself, master of all domains
-  > Node 5.2.1: sentence
-  > Node 5.2.2: sentence + link
-  > Node 5.2.3: sentence
-
-###### Node 6: header
-
-  Node 6.1: bold link
-  Node 6.2: italic sentence
-
-# A Boquet of Words
+## 4|  A Boquet of Words
 
 - These objects, nested in a graph like structure, provides a common canvas on which to organize ideas.
-- Every social media platform is just a different way for people to organize ideas.
-  - Playlists on Youtube and Tiktok
-  - Albums on Instagram
-  - Posts and threads on Reddit
-  - Hashtags on Twitter
-  - Stories on Snapchat
-  - Servers on Discord
-  - Articles on news websites
-  - Menus on restaurant websites
-- They are all just graphs of nodes, linked together just like this.
-  - The user interface of the app obscures your view of the datastructure in order to make it easier for you to browse.
 - This is just another form of social media.
   - One where you place ideas in their place the way you see them and share them with others.
-  - Deliberate thought, shared the way you see things.
-  - Shared directly from the system you use to take notes.
+  - Every social media platform is just a different way for people to organize ideas.
+    - Playlists on Youtube and Tiktok
+    - Albums on Instagram
+    - Posts and threads on Reddit
+    - Hashtags on Twitter
+    - Stories on Snapchat
+    - Servers on Discord
+    - Articles on news websites
+    - Menus on restaurant websites
+    - They are all just graphs of nodes, linked together just like this.
+      - The user interface of the app obscures your view of the datastructure in order to make it easier for you to browse.
+- This is a system for deliberate thought; sharing the way you see things, directly from the system you use to take notes.
 - Building and sharing these gardens is an exercise I'm sure hundreds of thousands of people could benefit from.
 
 [//begin]: # "Autogenerated link references for markdown compatibility"
