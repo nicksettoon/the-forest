@@ -1,4 +1,4 @@
-# why-are-they-ramblings?
+# why-are-they-ramblings
 
 __cause he's mad. duh.__
 

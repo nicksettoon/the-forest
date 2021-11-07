@@ -1,4 +1,4 @@
-# what-is-the-most-fun-thing-in-the-universe?
+# what-is-the-most-fun-thing-in-the-universe
 
 __bread pudding__
 

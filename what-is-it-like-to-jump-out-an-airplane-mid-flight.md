@@ -1,4 +1,4 @@
-# what-is-it-like-to-jump-out-an-airplane-mid-flight?
+# what-is-it-like-to-jump-out-an-airplane-mid-flight
 
 __shit must be cray__
 
