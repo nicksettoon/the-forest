@@ -1,6 +1,6 @@
 # whats-a-hypergraph
 
-__the only thing you **_can_** care about__
+**the only thing you **_can_** care about**
 
 ## 1| Why care?
 

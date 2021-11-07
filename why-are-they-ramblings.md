@@ -1,6 +1,6 @@
 # why-are-they-ramblings
 
-__cause he's mad. duh.__
+**cause he's mad. duh.**
 
 ## 1| What it means to ramble?
 
