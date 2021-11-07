@@ -1,9 +1,9 @@
 # why-does-that-sentence-make-sense
 
-__[linguistic elasticity](https://www.youtube.com/watch?v=3MWpHQQ-wQg)__
+**[linguistic elasticity](https://www.youtube.com/watch?v=3MWpHQQ-wQg)**
 
 ## 1| what is a sentence?
 
-__a beautiful thing__
+**a beautiful thing**
 
 #t/cbl

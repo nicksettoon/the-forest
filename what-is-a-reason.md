@@ -1,6 +1,6 @@
 # what-is-a-reason
 
-__another beautiful thing__
+**another beautiful thing**
 
 
 ## 1| A noun versus a verb

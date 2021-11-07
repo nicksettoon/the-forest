@@ -1,6 +1,6 @@
 # what-is-it-like-to-jump-out-an-airplane-mid-flight
 
-__shit must be cray__
+**shit must be cray**
 
 ## 1| That thing in the distance.
 

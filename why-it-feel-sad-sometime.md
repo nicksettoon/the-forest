@@ -1,6 +1,6 @@
 # why-it-feel-sad-sometime
 
-__cause it do be that way sometimes__
+**cause it do be that way sometimes**
 
 
 ## 1| Is sadness inevitable?

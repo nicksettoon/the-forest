@@ -4,7 +4,7 @@
 
 ## 1| Other People's Work That Is Way Better Than Mine
 
-__this will be populated eventually__
+**this will be populated eventually**
 
 ## 2| Ramblings
 
@@ -33,6 +33,7 @@ __this will be populated eventually__
 [[the-view]]
 [[the-future]] -->
 
+
 ## 3| The Good Stuff (Prime Sauce (Gold Dust (Choice Meat (aka lil juicy (aka nirvana (aka bird up!))))))
 
 ### Surround yourself with good people
@@ -42,14 +43,18 @@ __this will be populated eventually__
 ### Do stuff immediately
 
 > [[Run]]
+>
 > No, really, do stuff immediately
+>
 > What are you doing? Should be stuff right now.
+>
 > Do it right now.
+>
 > Stop reading. Go do stuff with your life.
 
 ### Maybe not care so much about failure
 
-> care a little, but manage the care budget
+> care a little, but manage the care budget so you can care about the stuff that isn't failure
 
 ## 4| Poetry
 
@@ -57,9 +62,13 @@ __this will be populated eventually__
 [[the-tree]]
 [[the-poet-tree]]
 [[the-poetry]]
+
+
 [[lettuce]]
 [[doth-thine-poetry-wobble-to-and-fro]]
 [[jenny-of-oldstones]]
+
+
 [[lovely]]
 [[lonely]]
 [[strawberry-slice]]
@@ -67,7 +76,7 @@ __this will be populated eventually__
 
 ## 5| Ideas I've Spent Time On
 
-__might be outside the scope of this garden__
+**might be outside the scope of this garden**
 
 <!-- [[how-to-teach]] -->
 
@@ -88,18 +97,18 @@ __might be outside the scope of this garden__
 [the-man]: journal/the-man "the-man"
 [why-is-he-mad]: why-is-he-mad "why-is-he-mad"
 [whats-a-hypergraph]: whats-a-hypergraph "whats-a-hypergraph"
-[why-are-they-ramblings]: why-are-they-ramblings "why-are-they-ramblings?"
+[why-are-they-ramblings]: why-are-they-ramblings "why-are-they-ramblings"
 [what-is-this]: what-is-this "what-is-this"
-[why-is-it-called-the-forest]: why-is-it-called-the-forest "why-is-it-called-the-forest?"
+[why-is-it-called-the-forest]: why-is-it-called-the-forest "why-is-it-called-the-forest"
 [why-does-that-sentence-make-sense]: why-does-that-sentence-make-sense "why-does-that-sentence-make-sense"
-[what-is-a-reason]: what-is-a-reason "what-is-a-reason?"
+[what-is-a-reason]: what-is-a-reason "what-is-a-reason"
 [why-you-should-be-happy]: why-you-should-be-happy "why-you-should-be-happy"
 [why-you-should-be-healthy]: why-you-should-be-healthy "why-you-should-be-healthy"
 [why-you-should-be-rich]: why-you-should-be-rich "why-you-should-be-rich"
 [why-it-feel-sad-sometime]: why-it-feel-sad-sometime "why-it-feel-sad-sometime"
-[what-is-the-most-fun-thing-in-the-universe]: what-is-the-most-fun-thing-in-the-universe "what-is-the-most-fun-thing-in-the-universe?"
-[what-is-it-like-to-jump-out-an-airplane-mid-flight]: what-is-it-like-to-jump-out-an-airplane-mid-flight "what-is-it-like-to-jump-out-an-airplane-mid-flight?"
-[what-is-the-future]: what-is-the-future "what-is-the-future?"
+[what-is-the-most-fun-thing-in-the-universe]: what-is-the-most-fun-thing-in-the-universe "what-is-the-most-fun-thing-in-the-universe"
+[what-is-it-like-to-jump-out-an-airplane-mid-flight]: what-is-it-like-to-jump-out-an-airplane-mid-flight "what-is-it-like-to-jump-out-an-airplane-mid-flight"
+[what-is-the-future]: what-is-the-future "what-is-the-future"
 [the-universal-toilet]: the-universal-toilet "the-universal-toilet"
 [in-summary]: in-summary "in-summary"
 [Run]: Run "Run"

@@ -1,11 +1,11 @@
 # the-universal-toilet
 
-__the best place to shit__
+**the best place to shit**
 
 
 ## 1| Rick's Toilet
 
-__[serene](https://www.youtube.com/watch?v=MU4WlERyyBY)__
+**[serene](https://www.youtube.com/watch?v=MU4WlERyyBY)**
 
 #t/cbl
 
