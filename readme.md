@@ -35,12 +35,6 @@
 
 ## 3| The Good Stuff (Prime Sauce (Gold Dust (Choice Meat (aka lil juicy (aka nirvana (aka bird up!))))))
 
-### Assume everything is infinitely more complicated than you think it is
-
-### Surround yourself with good people
-
-> People are your armor, money is your weapon. Not a perfect analogy, but one I like. Why would you surround yourself with anything less than those you hold in S-tier.
-
 ### Do stuff immediately
 
 > [[Run]]
@@ -53,6 +47,20 @@
 >
 > Stop reading. Go do stuff with your life.
 
+### Assume everything is infinitely more complicated than you think
+
+### Think about all that stuff that your future self will have to do, but won't want to do
+
+> Why don't you just do it for them so they don't have to do it?
+>
+> Don't you like your future self more than your current self?
+
+### Surround yourself with good people
+
+> People are your armor, money is your weapon. Not a perfect analogy, but one I like. Why would you surround yourself with anything less than those you hold in S-tier.
+
+### Trancendental numbers are holes in the numberline
+
 ### Maybe not care so much about failure
 
 > care a little, but manage the care budget so you can care about the stuff that isn't failure
@@ -64,11 +72,9 @@
 [[the-poet-tree]]
 [[the-poetry]]
 
-
 [[lettuce]]
 [[doth-thine-poetry-wobble-to-and-fro]]
 [[jenny-of-oldstones]]
-
 
 [[lovely]]
 [[lonely]]
