@@ -1,6 +1,6 @@
 <!-- <img src="attachments/wolfram-physics.jpeg" width=100 align="left"> -->
 
-# *"Ramblings of a mad man in the [hypergraph](https://medium.com/syncedreview/stephen-wolfram-the-path-to-a-fundamental-theory-of-physics-may-begin-with-a-hypergraph-c1fd124b6e62)"*
+# *"Ramblings of a mad man in the [hypergraph](https://medium.com/syncedreview/stephen-wolfram-the-path-to-a-fundamental-theory-of-physics-may-begin-with-a-hypergraph-c1fd124b6e62)."*
 
 ## 1| Other People's Work That Is Way Better Than Mine
 
@@ -86,6 +86,10 @@
 *might be outside the scope of this garden*
 
 <!-- [[how-to-teach]] -->
+
+## 6| How It Was Made
+
+*first you gotta get the [schleem](https://youtu.be/eMJk4y9NGvE)*
 
 > written by [Slartibartfast](https://en.wikipedia.org/wiki/Slartibartfast)
 
