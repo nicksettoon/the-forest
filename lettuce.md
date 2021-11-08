@@ -6,6 +6,6 @@ let us
 letoose
 litus
 leyttus
-letuchey
+letuch
 
 vacuum

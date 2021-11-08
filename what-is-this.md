@@ -44,7 +44,7 @@ This is what the headers look like all together:
 
 # Header #1 ([All Might](https://myheroacademia.fandom.com/wiki/Toshinori_Yagi))
 
-  Hi. I'm a sentence. Aren't I beautiful?
+  Hi, I'm a sentence and aren't I beautiful?
 
 ## Header #2 (I handle major points on the page)
 
@@ -63,13 +63,13 @@ This is what the headers look like all together:
 #### Header #4 (I talk about sub-sub-topics. Super niche.)
 
   1. Please forgive the swine up in header 3.
-  2. He is an unordered list.
-    1. The most vile of the lot.
+  2. He is an unordered list.  
+    1. The most vile of the lot.  
       1. He's slightly ordered, but not really.
       2. He lives under a mask of order, convincing others he is "normal", but underneath, he is but pure [chaos](journal/energy-demon.md)
   3. You could rearrange his items easily.
-  4. I however, am ordered.
-    1. I bring peace to the chaos
+  4. I however, am ordered.  
+    1. I bring peace to the chaos  
     2. I have within me, structure
       1. meaning
       2. purpose
@@ -89,7 +89,7 @@ This is what the headers look like all together:
 
   **hi. he's paul. ^**
 
-  ***PAUL IS BUT A FIGMENT OF YOUR IMAGINATION. HIS LIFE DEPENDS ON YOU KEEPING YOUR FOCUS ON HIS EXISTENCE. DON'T FORGET ABOUT PAUL***
+  ***PAUL IS BUT A FIGMENT OF YOUR IMAGINATION. HIS LIFE DEPENDS ON YOU KEEPING YOUR FOCUS ON HIS EXISTENCE. DON'T FORGET ABOUT PAUL.***
 
 ## 3| Page Disection
 
@@ -156,8 +156,10 @@ This is what the headers look like all together:
 
 ## 4|  A Boquet of Words
 
-- These objects, nested in a graph like structure, provides a common canvas on which to organize ideas.
+- These objects, nested in a graph like structure, provide a common canvas on which to organize ideas.
+- Mainly because it is the same structure as the universe.
 - This is just another form of social media.
+  - A way of socially sharing media.
   - One where you place ideas in their place the way you see them and share them with others.
   - Every social media platform is just a different way for people to organize ideas.
     - Playlists on Youtube and Tiktok
