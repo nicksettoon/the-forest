@@ -70,9 +70,9 @@ These rules in his ruleset stem from several observations of the behavior of the
 
     That feeling is Rick Sanchez.
 
-Characters in shows and movies are people as well. They were built by people. You can surround yourself with them as well. You can use them to build a better you.
+Characters in shows and movies are people. They were built by people. You can surround yourself with them as well. You can use them to build a better you.
 
-This may be a talk for another time, but I would argue that those characters have their own flavor of importance that real people of history simply lack, simply because they are purley ideas. They are thoughts created by people to explain a perspective of the world, not just a piece of it.
+This may be a talk for another time, but I would argue that those characters have their own flavor of importance that real people of history simply lack, simply because they are purely ideas. They are thoughts created by people to explain a perspective of the world, not just a piece of it.
 They are messages, really. Sent by their creators. Messages about rulesets by which to live.
 
 I'm becoming like those men so I can protect those I want to protect, have as much happiness as possible, and so I can give the **[[energy-demon]]** the bird when I see him.

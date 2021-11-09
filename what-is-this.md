@@ -6,7 +6,9 @@
 > [[why-does-that-sentence-make-sense]]
 > [[what-is-a-reason]]
 
-## 1| This is a knowledge graph
+## 1| This is a knowledge graph of my perspectives on existence.
+
+_part philosophy, part maths, part comedy, part insanity, part "giving zero fucks"._
 
 - Something I'm calling a "digital garden".
   - I think my friend was the first person who said those words to me.
@@ -156,8 +158,8 @@ This is what the headers look like all together:
 
 ## 4|  A Boquet of Words
 
-- These objects, nested in a graph like structure, provide a common canvas on which to organize ideas.
-- Mainly because it is the same structure as the universe.
+- These objects, nested in a graph like structure, provide a common canvas on which we can organize ideas.
+- Any set of keywords and syntax would do the trick, but this particular set (markdown), is widely supported across [[THE-INTERNET]].
 - This is just another form of social media.
   - A way of socially sharing media.
   - One where you place ideas in their place the way you see them and share them with others.
