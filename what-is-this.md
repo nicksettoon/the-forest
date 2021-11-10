@@ -130,13 +130,13 @@ This is what the headers look like all together:
 > Node 4.1: ordered list
 >
 >   1. Node 4.1.1: sentence
->   2. Node 4.1.2: sentence
->     1. Node 4.1.2.1: sentence
+>   2. Node 4.1.2: sentence  
+>     1. Node 4.1.2.1: sentence  
 >       1. Node 4.1.2.1.1: sentence
 >       2. Node 4.1.2.1.2: sentence
 >   3. Node 4.1.3: sentence
->   4. Node 4.1.4: sentence
->     1. Node 4.1.4.1: sentence
+>   4. Node 4.1.4: sentence  
+>     1. Node 4.1.4.1: sentence  
 >     2. Node 4.1.4.2: sentence
 >       1. Node 4.1.2.1: sentence
 >       2. Node 4.1.2.2: sentence
