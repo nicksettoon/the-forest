@@ -1,4 +1,10 @@
 [[redirects]]
+  from = "/forest"
+  to = "hhttps://settoon-forest.netlify.app"
+  status = 301
+  force = true
+
+[[redirects]]
   from = "/aws"
   to = "https://settoon.signin.aws.amazon.com/console"
   status = 301
