@@ -10,9 +10,7 @@
 
 _part philosophy, part maths, part comedy, part insanity, part "giving zero fucks"._
 
-## 2| What I want it to be
-
-_an image of parts of my brain I can share with people_
+I want this to be an image of parts of my brain I can share with people.
 
 - Something I'm calling a "digital garden".
   - I think my friend was the first person who said those words to me.
