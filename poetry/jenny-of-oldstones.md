@@ -1,6 +1,6 @@
 # jenny-of-oldstones
 
-_from Game of Thrones Season 8 - Episode 2_
+_from Game of Thrones Season 8 - Episode 2 but I added the last verse_
 
 High in the halls of the Kings who are gone  
 Jenny would dance with her ghosts  
