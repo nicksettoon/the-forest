@@ -1,6 +1,6 @@
 # the-ocean
 
-_the part of [[the-graph]] containing pasts, presents, and futures you dislike_
+_the part of [[the-graph]] containing pasts, presents, and futures in which you would not be content_
 
 ## The weight
 
