@@ -9,7 +9,7 @@ _he's full of himself_
 
 ## 1| Hello
 
-I've spent a long time searching, not explicitly, mind you; merely meandering about this magnificent [graph](../the-graph.md), looking around.  
+I've spent a long time searching, not explicitly, mind you; merely meandering about this magnificent [graph](the-graph.md), looking around.  
 
  "A long time" is a message, which when received, I feel, is immediately judged by the receiver. Many snub their nose at a mere 28.4602739730 years. To them I am but a summer child.  
     Others (probably fewer than their counterparts), would consider me "old". To them, I speak of things about which they give zero fucks.  
