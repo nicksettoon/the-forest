@@ -7,13 +7,13 @@ _he's full of himself_
 > [[why-are-they-ramblings]]
 > [[what-is-here]]
 
-## 1| Hello, my name is Nick.
+## 1| Hello
 
-I've spent a long time searching, not explicitly, mind you; merely meandering about this magnificent [graph](../the-graph.md), looking.  
+I've spent a long time searching, not explicitly, mind you; merely meandering about this magnificent [graph](../the-graph.md), looking around.  
 
  "A long time" is a message, which when received, I feel, is immediately judged by the receiver. Many snub their nose at a mere 28.4602739730 years. To them I am but a summer child.  
-Others (probably fewer than their counterparts), would consider me "old". To them, I speak of things about which they give zero fucks.  
-Age merely guarantees experience, nothing more, nothing less.
+    Others (probably fewer than their counterparts), would consider me "old". To them, I speak of things about which they give zero fucks.  
+    Age merely guarantees experiences experienced, nothing more, nothing less.
 
 I didn't know it while I was scouring, but now that I've happened upon it, he seems so obvious. I guess that's just what a higher vantage point on [[the-mountain]] gets you.
 
