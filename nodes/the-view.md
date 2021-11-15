@@ -2,7 +2,7 @@
 
 _there are so many places in the universe that would immediately murder you._
 
-Just sit back and enjoy looking at one that won't
+Just sit back and enjoy looking at one that won't.
 
 You sit on a porch overhanging a small hill leading down to a black sand beach. The wood is sheet white and consumes your vision for most areas while on the deck, save for the far-side railing. The house behind you is small and maximally efficient at helping you live your life. The forest huggs every inch of the outside of your house, like a mother and her newly born child.
 
@@ -24,9 +24,5 @@ Your plot, however, is the one constant that never changes. Not a single atom of
 
 You live here, but can leave whenever you want in the time it takes to generate a thought.
 
-
-
-
-<!-- I spent "a long time" with the perspective that I've given here. And for the vast majority of it, it made me impossibly depressed. I would look around at my physical situation in spacetime and I would be demoralized by my capabilities in that moment relative to how strong and capable I wanted to be.
-- A lot of things made a lot of changes in my past and I can't hope to list them here. --> #t/cbl
+This is a slice of the internet, one which you mathematically own and it cannot be taken from you, but by death. Enjoy your *view*.
 
