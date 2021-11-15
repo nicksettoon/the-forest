@@ -12,7 +12,7 @@ He wears comfortable dark jeans weathered by 6 years, 2 months, and 20 days of o
 
 His calm blue-rimmed glasses show him the [[things-that-can't-be-seen]]. He has the power over himself to fix his issues with sight, but he prefers the form in which he lives. They are a sentimental reminder of the feeling known as "imperfection".
 
-Thousands of smiles have carved their way into his face, making it progressively easier and easier for their descendants to come and make their marks. A 28 year old dynasty of smiles with one goal. They have not tired of the craft.
+Thousands of facial expressions have carved their way into his face, making it progressively easier and easier for their descendants to come and make their marks. Most are members of a 28 year old dynasty of smiles. A civilization with one goal: to express happiness. They have not tired of the craft.
 
 Several tatoos cover his skin. Each, a rule in his life that he holds as constant as he can. Their permanence was etched upon his skin after they dried like cement into his life. He sees them as the output of various programs he executed on his journey through [[the-graph]].
 
