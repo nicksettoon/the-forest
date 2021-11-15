@@ -4,7 +4,7 @@
 
 ## 1| Finding stuff is fun
 
-*the weird thoughts are the best imo*
+*weird thoughts are the best*
 
 #t/cbl
 
