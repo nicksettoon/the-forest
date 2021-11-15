@@ -15,7 +15,9 @@ The insanity I speak of and use throughout this [garden](what-is-this.md) is tha
 
 _Relatively? No. But, relatively? Yes._
 
-Compared to some humans (if one could [compare](what-is-a-comparison) madness), he's mad as the hatter. Compared to all humans, probably not.
+[[nodes/what-is-a-comparison]]
+
+Compared to some humans (if one could [compare]() madness), he's mad as the hatter. Compared to all humans, probably not.
 
 ## 3| Madness, the tool
 
