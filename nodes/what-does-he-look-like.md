@@ -14,7 +14,7 @@ His calm blue-rimmed glasses show him the [[things-that-can't-be-seen]]. He has 
 
 Thousands of facial expressions have carved their way into his face, making it progressively easier and easier for their descendants to come and make their marks. Most are members of a 28 year old dynasty of smiles. A civilization with one goal: to express happiness. They have not tired of the craft.
 
-Several tatoos cover his skin. Each, a rule in his life that he holds as constant as he can. Their permanence was etched upon his skin after they dried like cement into his life. He sees them as the output of various programs he executed on his journey through [[the-graph]].
+Several tattoos cover his skin. Each, a rule in his life that he holds as constant as he can. Their permanence was etched upon his skin after they dried like cement into his life. He sees them as the output of various programs he executed on his journey through [[the-graph]].
 
 1. [The Greek Letter Delta](https://en.wikipedia.org/wiki/Delta_(letter))  
 
