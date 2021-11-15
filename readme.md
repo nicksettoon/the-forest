@@ -2,11 +2,13 @@
 ## *Here lie the ramblings of a mad man in the [hypergraph](https://medium.com/syncedreview/stephen-wolfram-the-path-to-a-fundamental-theory-of-physics-may-begin-with-a-hypergraph-c1fd124b6e62).*
 
 > Hi I'm [[biiiiiiiiiillyyy]] I handle all the new stuff around here! CHecK it ITS NEW!
+> 
 > ----------------------- [[NEW-STUFF]] Shop--------------------------
-> [[THE-INTERNET]]
-> [[the-view]]
-> [[what-does-he-look-like]]
-> small alterations to previous articles. some noteworthy, some not. Check github for specifics on what changed.
+> - [[THE-INTERNET]]
+> - [[the-view]]
+> - [[what-does-he-look-like]]
+> - small alterations to previous articles. some noteworthy, some not. Check github for specifics on what changed.
+> 
 > ------------------[[COME-GET-YA-NEW-STUFF-SIGN]]------------------------
 
 ## Or if you wanna go exploring again:
