@@ -10,7 +10,7 @@
 
 #t/cbl
 
-## 3| Respect the ramble.
+## 3| Respect the ramble
 
 #t/cbl
 

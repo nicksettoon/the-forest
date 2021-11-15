@@ -8,7 +8,7 @@ His uniquely common brown eyes have seen things that cannot be seen. He sculpts 
 
 Upon arriving at his lodge in [the-forest](../readme.md), he returns to simplicity; to a standardized set of actions, defined not by whim, but by him. One of these such actions is to shave. Another is to buzz his hair. He wishes to feel in touch with the air... but not the hair.
 
-He wears comfortable dark jeans weathered by 6 years, 2 months, and 20 days of ownership. He purchased them 6 years, 2 months, and 20 days ago. His brown steal toe boots are padded on the inside as to give the foot secure control over the exterior, but also allow a little give with each step. His shirt, a solid dark teal, peaks from inside his half-way zipped light brown jacket.
+He wears comfortable dark jeans weathered by 6 years, 2 months, and 20 days of ownership. He purchased them 6 years, 2 months, and 20 days ago. His brown steal-toed boots are padded on the inside as to give the foot secure control over the exterior, but also allow a little give with each step. His shirt, a solid dark teal, peaks from inside his half-way zipped light brown jacket.
 
 His calm blue-rimmed glasses show him the [[things-that-can't-be-seen]]. He has the power over himself to fix his issues with sight, but he prefers the form in which he lives. They are a sentimental reminder of the feeling known as "imperfection".
 
