@@ -18,7 +18,7 @@ Several tatoos cover his skin. Each, a rule in his life that he holds as constan
 
 1. [The Greek Letter Delta](https://en.wikipedia.org/wiki/Delta_(letter))  
 
-    Located on his left chest directly above the heart.  
+    Located on his left chest directly covering the heart.  
     He earned this when he found himself and executed his first [program](ruleset.md)  
     Data which reminds him of [[the-goal]].
 
