@@ -4,7 +4,7 @@
 
 > [[what-is-it-like-to-jump-out-an-airplane-mid-flight]]
 
-## 1| Seriously, bread pudding doe.
+## 1| Seriously, bread pudding doe
 
 #t/cbl
 

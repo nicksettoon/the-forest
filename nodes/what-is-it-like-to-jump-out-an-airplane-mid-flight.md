@@ -2,14 +2,14 @@
 
 *shit must be cray*
 
-## 1| That thing in the distance.
+## 1| That thing in the distance
 
 #t/cbl
 
-## 2| Why it must be done.
+## 2| Why it must be done
 
 #t/cbl
 
-## 3| Building the courage.
+## 3| Building the courage
 
 #t/cbl

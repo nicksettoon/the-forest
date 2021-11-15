@@ -24,7 +24,7 @@
 
 #t/cbl
 
-## 6| The Actual Future That No One Talks About.
+## 6| The Actual Future That No One Talks About
 
 #t/cbl
 

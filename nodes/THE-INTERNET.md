@@ -4,7 +4,7 @@ _the beginning of something wholely and unfathomably different_
 
 > [[how-the-internet-works-in-100-words]]
  
-## A difference in quantity
+## 1| A difference in quantity
 
 _is a difference in kind._
 
@@ -19,7 +19,7 @@ The same way the number of frames delivered per second to the eye changes the ki
 
 Really it's an issue we've faced for millenia; the unequal distribution of facts.  -->
 
-## Problems?
+## 2| Problems?
 
 _It's still primitive._
 
@@ -29,7 +29,7 @@ _It's still primitive._
   - The facts are subject to pay walls.
   - The facts are subject to interpretation.
   - The facts are subject to "being buried".
-  - The facts are subject to "being too complicated for me to take time out of my life to understand the nuance needed to accurately incorporate this fact into my everyday conversations and not just speak out of my ass with some headline I read the other week.".
+  - The facts are subject to "being too complicated for me to take time out of my life to understand the nuance needed to accurately incorporate this fact into my everyday conversations and not just speak out of my ass with some headline I read the other week."
 - Information sometimes goes through unintended alterations in transit.
   - The message is only as uncorruptable as the medium on which it travels.
   - Usually we have communicational infrastructure such as body language, vocal inflections, facial features, and eye contact to help us judge the messages we receive.
@@ -54,31 +54,31 @@ But are these really problems that we must solve? (yes) Or are they features, th
 
 #t/cbl
 
-## Adaptable is our middle name
+## 3| Adaptable is our middle name
 
 _What do I know? I'm [mad](why-is-he-mad.md)._
 
 #t/cbl
 
-## An ideal future
+## 4| An ideal future for the internet
 
 _a place where freedom to pursue an idea is mathematically enforced and regulated._
 
 #t/cbl
 
-## A real future
+## 5| A real future for the internet
 
 _a place where any idea can be made quickly and sold to anyone willing to buy._
 
 #t/cbl
 
-## A scary future
+## 6| A scary future for the internet
 
 _a place where people are controlled._
 
 #t/cbl
 
-## A peaceful future
+## 7| A peaceful future for the internet
 
 _no internet at all. no humans. just spacetime._
 

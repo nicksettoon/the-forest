@@ -5,13 +5,13 @@ _of a madman_
 * [[TLDR]]
 * [[the-man]]
   * [[what-does-he-look-like]]
-  * [[what-does-he-do]]
   * [[why-is-he-in-the-forest]]
   * [[why-is-he-mad]]
   * [[whats-a-hypergraph]]
   * [[why-are-they-ramblings]]
-  * [[what-is-here]]
+  * [[what-does-he-do]]
 * [[what-is-this]]
+  * [[THE-INTERNET]]
   * [[why-is-it-called-the-forest]]
   * [[why-does-that-sentence-make-sense]]
   * [[what-is-a-reason]]
@@ -35,13 +35,13 @@ _of a madman_
 [TLDR]: ../bits/TLDR "TLDR"
 [the-man]: the-man "the-man"
 [what-does-he-look-like]: what-does-he-look-like "what-does-he-look-like"
-[what-does-he-do]: what-does-he-do "what-does-he-do"
 [why-is-he-in-the-forest]: why-is-he-in-the-forest "why-is-he-in-the-forest"
 [why-is-he-mad]: why-is-he-mad "why-is-he-mad"
 [whats-a-hypergraph]: whats-a-hypergraph "whats-a-hypergraph"
 [why-are-they-ramblings]: why-are-they-ramblings "why-are-they-ramblings"
-[what-is-here]: ../bits/what-is-here "what-is-here"
+[what-does-he-do]: what-does-he-do "what-does-he-do"
 [what-is-this]: what-is-this "what-is-this"
+[THE-INTERNET]: THE-INTERNET "THE-INTERNET"
 [why-is-it-called-the-forest]: why-is-it-called-the-forest "why-is-it-called-the-forest"
 [why-does-that-sentence-make-sense]: why-does-that-sentence-make-sense "why-does-that-sentence-make-sense"
 [what-is-a-reason]: what-is-a-reason "what-is-a-reason"
