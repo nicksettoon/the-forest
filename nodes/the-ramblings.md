@@ -10,6 +10,7 @@ _of a madman_
   * [[whats-a-hypergraph]]
   * [[why-are-they-ramblings]]
   * [[what-does-he-do]]
+  * [[the-view]]
 * [[what-is-this]]
   * [[THE-INTERNET]]
   * [[why-is-it-called-the-forest]]
