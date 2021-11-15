@@ -1,4 +1,4 @@
 # the-goal
 
-## Live until _I_ want to die
+_Live until **I** want to die_
 

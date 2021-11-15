@@ -4,17 +4,17 @@ _he's pretty handsome_
 
 Of middling height on the distribution of his particular sex and species, he stands straight. His back and torso, firm because he made it so. His arms, forged in heavy sweat. His legs, diligent and fast.
 
-His uniquely common brown eyes have seen things that cannot be seen. His excessively boring brown hair occasionally sports various forms of facial hair as he plays a small game over long timescales with it's appearance. However, all the games change when he retreats.
+His uniquely common brown eyes have seen things that cannot be seen. He sculpts his excessively boring brown hair into various entertaining forms as he plays a small game over long timescales with it's appearance. However, almost all the games change when he retreats.
 
-He retreats to [the-forest](../readme.md). Upon arriving, he returns to simplicity; to a standardized set of actions, defined not by whim, but by him. One of these such actions is to shave. Another is to buzz his hair. He wishes to feel in touch with the air... but not the hair.
+Upon arriving at his lodge in [the-forest](../readme.md), he returns to simplicity; to a standardized set of actions, defined not by whim, but by him. One of these such actions is to shave. Another is to buzz his hair. He wishes to feel in touch with the air... but not the hair.
 
-He wears comfortable dark jeans weathered by 6 years, 2 months, and 20 days of ownership. He purchased them 6 years, 2 months, and 20 days ago. His brown steal toe boots are padded on the inside as to give the foot secure control over the exterior, but also allow a little give with each step. His shirt, a dark teal, peaks from inside his half-way zipped light brown jacket.
+He wears comfortable dark jeans weathered by 6 years, 2 months, and 20 days of ownership. He purchased them 6 years, 2 months, and 20 days ago. His brown steal toe boots are padded on the inside as to give the foot secure control over the exterior, but also allow a little give with each step. His shirt, a solid dark teal, peaks from inside his half-way zipped light brown jacket.
 
-His calm blue-rimmed glasses show him the [[things-that-can't-be-seen]]. He has the power over himself to fix his issues with sight, but he prefers the form in which he lives. They are a reminder of the feeling known as "imperfection".
+His calm blue-rimmed glasses show him the [[things-that-can't-be-seen]]. He has the power over himself to fix his issues with sight, but he prefers the form in which he lives. They are a sentimental reminder of the feeling known as "imperfection".
 
-Wrinkles of thousands of smiles have carved their way into his face, making it easier and easier for their descendants to come and make their marks. A dynasty of smiles with one goal, and after 28 years, they have not tired of the craft.
+Thousands of smiles have carved their way into his face, making it progressively easier and easier for their descendants to come and make their marks. A 28 year old dynasty of smiles with one goal. They have not tired of the craft.
 
-Several tatoos cover his skin. Each a rule in his life that he holds as constant as he can. Their permanence etched upon his skin when they dried like cement into his life. He sees them as the output of various programs he executed on his journey through [[the-graph]].
+Several tatoos cover his skin. Each, a rule in his life that he holds as constant as he can. Their permanence was etched upon his skin after they dried like cement into his life. He sees them as the output of various programs he executed on his journey through [[the-graph]].
 
 1. [The Greek Letter Delta](https://en.wikipedia.org/wiki/Delta_(letter))  
 
