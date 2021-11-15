@@ -41,6 +41,7 @@ _of a madman_
 [whats-a-hypergraph]: whats-a-hypergraph "whats-a-hypergraph"
 [why-are-they-ramblings]: why-are-they-ramblings "why-are-they-ramblings"
 [what-does-he-do]: what-does-he-do "what-does-he-do"
+[the-view]: the-view "the-view"
 [what-is-this]: what-is-this "what-is-this"
 [THE-INTERNET]: THE-INTERNET "THE-INTERNET"
 [why-is-it-called-the-forest]: why-is-it-called-the-forest "why-is-it-called-the-forest"

@@ -14,6 +14,17 @@ Your clothes are comfortable, one of the lounge chairs is comfortable
 
 You think, "I'd like to listen to that albumn right now." Suddenly, all other sound disappears from your perception. The world falls to a hush; kind of there, kind of not. Then [this](https://youtu.be/AmmFD2OIs_k) takes it's place.
 
+In front of you lay nothing but black sand, teal ocean with bubble blue froth, and the sky... oh the sky. The best part.
+
+  The brightness of it, is that perfect calm that comes just before the sun goes down. The calm where the world is beginning to wind down after a fresh new bright day of possibilities. The system is shifting it's weight, it's energy, it's appearance... to an entirely different world of possibilities. The cycle of this plays out around your house, until you deem it change.
+
+  It's hue, a deep purple that huggs your mind as to stare out at it, the same way the forest hugs your abode. 
+
+Your plot, however, is the one constant that never changes. Not a single atom of the house withers, or leaves. Objects return themselves to where you set their home to be. They provide you what you want whenever you want it, but you still take the time out to engage in the processes you love. The cleaning, the cooking, the pet care. 
+
+You live here, but can leave whenever you want in the time it takes to generate a thought.
+
+
 
 
 <!-- I spent "a long time" with the perspective that I've given here. And for the vast majority of it, it made me impossibly depressed. I would look around at my physical situation in spacetime and I would be demoralized by my capabilities in that moment relative to how strong and capable I wanted to be.
