@@ -11,6 +11,8 @@
 > 
 > ------------------[[COME-GET-YA-NEW-STUFF-SIGN]]------------------------
 
+you shouldn't see this sentence.
+
 ## Or if you wanna go exploring again:
 
 [[what-is-this]]
