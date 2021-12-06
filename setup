@@ -1,0 +1,126 @@
+#! /bin/bash
+
+###DECLARE SOME FUNCTIONS NEEDED LATER###
+# make new ssh key
+function newkey()
+{
+    read -p "ssh key email: " email
+    echo "ssh key passwd: "
+    read -s passwd
+    #read -p "path to ssh key: " path
+    #if [ "$path" = '' ]
+    #then
+    mkdir $HOME/.ssh
+    path=$HOME/.ssh/id_rsa
+    #fi
+    echo "saving key to: $path"
+
+    ssh-keygen -q -t rsa -C "$email" -N "$passwd"
+
+    cat "$path.pub" | xclip -selection clipboard
+
+    echo "Public key now in clipboard."
+}
+
+# setup git authentication through ssh (https no longer supported)
+function git_setup()
+{
+
+echo "##==========RUNNING GIT_SETUP==========##"
+
+sudo apt install -y git xclip
+shopt -s expand_aliases
+
+read -p "github username: " name
+read -p "github email: " email
+git config --global user.name "$name"
+git config --global user.email "$email"
+
+git config --global color.ui true
+git config --global core.editor vim
+
+newkey
+
+read -p "Paste into github ssh key, then press enter to continue script"
+
+ssh -T git@github.com
+}
+
+
+###START MAIN SCRIPT###
+echo "##==========RUNNING $0==========##"
+
+read -p "Please enter username: " user
+read -p "Is '$user' correct? [Y/n] " ans
+
+## set script variables
+USER=$user # username
+GDIR=$HOME/git #git directory
+CDIR=$GDIR/_ubuntu-conf #config directory
+export SDIR=$CDIR/.scripts #script directory
+
+# move to GDIR
+mkdir $GDIR
+cd $GDIR
+
+## setup git https
+read -p "Set up git ssh access? (Will squash ~/.ssh/id_rsa keys) [Y/n]" ans 
+    if [ "$ans" = 'n' ]
+    then
+        echo "Skipping git ssh setup."
+    else
+        git_setup
+    fi
+
+## pull config repo
+git clone git@github.com:nicksettoon/_ubuntu-conf.git
+
+##  sync settings and dot files
+cd $CDIR
+make restore
+source $HOME/.bashrc
+shopt -s expand_aliases
+
+# run base command line setup
+$SDIR/base_setup
+
+#essential packages only useable in GUI env
+read -p "Set up for GUI? [Y/n]" ans 
+    if [ "$ans" = 'n' ]
+    then
+        echo "Skipping GUI packages."
+    else
+        $SDIR/base_gui_setup
+    fi
+
+## install optional packages
+read -p "Optional Setup? [Y/n]" ans 
+    if [ "$ans" = 'n' ]
+    then
+        echo "Skipping optional install."
+    else
+        $SDIR/opt_setup
+    fi
+
+read -p "Dev Setup? [Y/n]" ans 
+    if [ "$ans" = 'n' ]
+    then
+        echo "Skipping virtualbox install."
+    else
+        $SDIR/dev_setup
+    fi
+
+read -p "Link root bash config to '$1''s? [Y/n]" ans 
+    if [ "$ans" = 'n' ]
+    then
+        echo "Not linking."
+    else
+        $SDIR/bash_setup
+    fi
+
+## sync settings files again
+source $HOME/.bashrc
+shopt -s expand_aliases
+
+restore
+
