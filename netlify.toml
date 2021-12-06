@@ -1,10 +1,4 @@
 [[redirects]]
-  from = "/setup"
-  to = "setup"
-  status = 301
-  force = true
-
-[[redirects]]
   from = "/forest"
   to = "https://settoon-forest.netlify.app"
   status = 301
