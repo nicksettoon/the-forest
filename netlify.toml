@@ -1,5 +1,5 @@
 [[redirects]]
-  from = "/forest"
+  from = "/setup"
   to = "setup"
   status = 301
   force = true
